@@ -108,7 +108,7 @@ https://www.tooplate.com/view/2120-ben-resume
   }
 
   .section-padding {
-    padding: 6rem 0;
+    padding: 2rem 0;
   }
 
   .custom-icon {
@@ -311,6 +311,10 @@ https://www.tooplate.com/view/2120-ben-resume
     margin: 0.5rem 0;
     padding: 0.5rem 2rem 1.5rem 2rem;
 	font-size: 1.8em;
+  }
+
+  .hero-title{
+    font-size: 1.7em;
   }
 
   .email-link {
